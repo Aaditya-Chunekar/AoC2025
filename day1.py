@@ -14,7 +14,6 @@ with open("day1.ip","r") as f:
             b+=v
             if(b>r):
                 b%=100
-            break
         if(b==0):
            ans+=1
 print(ans)
