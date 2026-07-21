@@ -12,4 +12,4 @@ My solutions to AoC2025
 
 My Solutions to AoC2024
 
-1. `*` 
+1. `*` `*` 
